@@ -1,0 +1,164 @@
+[02-Oct-2024 19:21:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_total_requests() in C:\xampp\htdocs\bld\pages\reports.php:48
+Stack trace:
+#0 C:\xampp\htdocs\bld\index.php(175): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\bld\pages\reports.php on line 48
+[02-Oct-2024 19:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_total_requests() in C:\xampp\htdocs\bld\pages\reports.php:48
+Stack trace:
+#0 C:\xampp\htdocs\bld\index.php(175): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\bld\pages\reports.php on line 48
+[02-Oct-2024 19:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_total_requests() in C:\xampp\htdocs\bld\pages\reports.php:48
+Stack trace:
+#0 C:\xampp\htdocs\bld\index.php(175): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\bld\pages\reports.php on line 48
+[03-Oct-2024 05:11:16 UTC] PHP Warning:  require_once(../includes/db_connection.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bld\pages\search_donors.php on line 3
+[03-Oct-2024 05:11:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db_connection.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bld\pages\search_donors.php:3
+Stack trace:
+#0 C:\xampp\htdocs\bld\index.php(157): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\bld\pages\search_donors.php on line 3
+[03-Oct-2024 05:11:31 UTC] PHP Warning:  require_once(../includes/db_connection.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bld\pages\search_donors.php on line 3
+[03-Oct-2024 05:11:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db_connection.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bld\pages\search_donors.php:3
+Stack trace:
+#0 C:\xampp\htdocs\bld\index.php(157): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\bld\pages\search_donors.php on line 3
+[03-Oct-2024 05:12:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bld\pages\search_donors.php on line 5
+[03-Oct-2024 05:12:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function searchDonors() in C:\xampp\htdocs\bld\pages\search_donors.php:14
+Stack trace:
+#0 C:\xampp\htdocs\bld\index.php(157): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\bld\pages\search_donors.php on line 14
+[03-Oct-2024 05:12:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bld\pages\search_donors.php on line 5
+[03-Oct-2024 05:12:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function searchDonors() in C:\xampp\htdocs\bld\pages\search_donors.php:14
+Stack trace:
+#0 C:\xampp\htdocs\bld\index.php(157): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\bld\pages\search_donors.php on line 14
+[03-Oct-2024 05:12:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bld\pages\search_donors.php on line 5
+[03-Oct-2024 05:12:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function searchDonors() in C:\xampp\htdocs\bld\pages\search_donors.php:14
+Stack trace:
+#0 C:\xampp\htdocs\bld\index.php(157): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\bld\pages\search_donors.php on line 14
+[03-Oct-2024 05:12:49 UTC] PHP Warning:  require_once(../config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bld\pages\search_donors.php on line 3
+[03-Oct-2024 05:12:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bld\pages\search_donors.php:3
+Stack trace:
+#0 C:\xampp\htdocs\bld\index.php(157): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\bld\pages\search_donors.php on line 3
+[03-Oct-2024 05:12:50 UTC] PHP Warning:  require_once(../config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bld\pages\search_donors.php on line 3
+[03-Oct-2024 05:12:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bld\pages\search_donors.php:3
+Stack trace:
+#0 C:\xampp\htdocs\bld\index.php(157): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\bld\pages\search_donors.php on line 3
+[03-Oct-2024 05:12:50 UTC] PHP Warning:  require_once(../config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bld\pages\search_donors.php on line 3
+[03-Oct-2024 05:12:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bld\pages\search_donors.php:3
+Stack trace:
+#0 C:\xampp\htdocs\bld\index.php(157): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\bld\pages\search_donors.php on line 3
+[03-Oct-2024 05:13:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function searchDonors() in C:\xampp\htdocs\bld\pages\search_donors.php:13
+Stack trace:
+#0 C:\xampp\htdocs\bld\index.php(157): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\bld\pages\search_donors.php on line 13
+[03-Oct-2024 05:16:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli as array in C:\xampp\htdocs\bld\functions.php:793
+Stack trace:
+#0 C:\xampp\htdocs\bld\pages\search_donors.php(13): searchDonors(Object(mysqli), '', '', '', '')
+#1 C:\xampp\htdocs\bld\index.php(157): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\bld\functions.php on line 793
+[03-Oct-2024 05:18:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli as array in C:\xampp\htdocs\bld\functions.php:793
+Stack trace:
+#0 C:\xampp\htdocs\bld\pages\search_donors.php(13): searchDonors(Object(mysqli), '', '', '', '')
+#1 C:\xampp\htdocs\bld\index.php(157): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\bld\functions.php on line 793
+[03-Oct-2024 05:18:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli as array in C:\xampp\htdocs\bld\functions.php:793
+Stack trace:
+#0 C:\xampp\htdocs\bld\pages\search_donors.php(13): searchDonors(Object(mysqli), '', '', '', '')
+#1 C:\xampp\htdocs\bld\index.php(157): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\bld\functions.php on line 793
+[03-Oct-2024 05:18:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli as array in C:\xampp\htdocs\bld\functions.php:793
+Stack trace:
+#0 C:\xampp\htdocs\bld\pages\search_donors.php(13): searchDonors(Object(mysqli), '', '', '', '')
+#1 C:\xampp\htdocs\bld\index.php(157): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\bld\functions.php on line 793
+[03-Oct-2024 05:18:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli as array in C:\xampp\htdocs\bld\functions.php:793
+Stack trace:
+#0 C:\xampp\htdocs\bld\pages\search_donors.php(13): searchDonors(Object(mysqli), '', '', '', '')
+#1 C:\xampp\htdocs\bld\index.php(157): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\bld\functions.php on line 793
+[03-Oct-2024 05:18:10 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli as array in C:\xampp\htdocs\bld\functions.php:793
+Stack trace:
+#0 C:\xampp\htdocs\bld\pages\search_donors.php(13): searchDonors(Object(mysqli), '', '', '', '')
+#1 C:\xampp\htdocs\bld\index.php(157): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\bld\functions.php on line 793
+[03-Oct-2024 05:30:17 UTC] PHP Warning:  Undefined array key "address" in C:\xampp\htdocs\bld\pages\search_donors.php on line 134
+[03-Oct-2024 05:30:17 UTC] PHP Warning:  Undefined array key "address" in C:\xampp\htdocs\bld\pages\search_donors.php on line 134
+[03-Oct-2024 05:43:57 UTC] PHP Fatal error:  Cannot redeclare is_eligible_to_donate() (previously declared in C:\xampp\htdocs\bld\functions.php:95) in C:\xampp\htdocs\bld\functions.php on line 840
+[03-Oct-2024 05:46:12 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:46:12 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:46:38 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:46:38 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:47:51 UTC] PHP Warning:  Undefined array key "role" in C:\xampp\htdocs\bld\pages\register.php on line 13
+[03-Oct-2024 05:47:51 UTC] Error preparing statement: Unknown column 'phone_number' in 'where clause'
+[03-Oct-2024 05:49:18 UTC] Error preparing statement: Unknown column 'phone_number' in 'where clause'
+[03-Oct-2024 05:50:02 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:50:02 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:50:02 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:50:16 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:50:16 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:50:16 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:50:21 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:50:21 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:50:21 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:24 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:24 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:24 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:41 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:41 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:41 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:42 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:42 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:42 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:42 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:42 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:42 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:43 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:43 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:43 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:43 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:43 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:43 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:43 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:43 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:43 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:43 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:43 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:43 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:44 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:44 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:53:44 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:54:25 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 05:54:32 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 06:03:07 UTC] Error preparing statement: Table 'blood_donation_db.blood_requests' doesn't exist
+[03-Oct-2024 06:03:08 UTC] Error preparing statement: Table 'blood_donation_db.blood_requests' doesn't exist
+[03-Oct-2024 06:03:08 UTC] Error preparing statement: Table 'blood_donation_db.blood_requests' doesn't exist
+[03-Oct-2024 06:03:08 UTC] Error preparing statement: Table 'blood_donation_db.blood_requests' doesn't exist
+[03-Oct-2024 06:03:33 UTC] Error preparing statement: Table 'blood_donation_db.blood_requests' doesn't exist
+[03-Oct-2024 06:03:52 UTC] Error preparing statement: Table 'blood_donation_db.blood_requests' doesn't exist
+[03-Oct-2024 06:13:39 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 06:13:39 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 06:13:39 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 06:14:06 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 06:14:06 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
+[03-Oct-2024 06:14:06 UTC] Error preparing donation statement: Unknown column 'user_id' in 'where clause'
